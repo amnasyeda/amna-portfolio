@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "I am a junior web-developer and I am currectly working on small projects as a freelanced developer. ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -85,23 +85,23 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Vintage Vinyl Records",
+    skills: ["Apollo, Graphql, React.js, React-router-dom, Bcrypt, Express.js, Mongoose"],
+    url: "https://github.com/group01-project03/vintage-vinyl-records",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Book Search Engine",
+    skills: ["MERN Stack, React, Node.js, MongoDB, Express"],
+    url: "https://github.com/amnasyeda/book-search-engine",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "E-Commerce Back End",
+    skills: ["Javascript, Node.js, Sequalize, MySQL, Dotenv"],
+    url: "https://github.com/amnasyeda/ecommerce-back-end",
   },
   {
     // Add image in './styles/images.css' in #project4
@@ -113,16 +113,16 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project5
     id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "WasteAway - Waste Management",
+    skills: ["jQuery, Dotenv, MySQL and Sequelize ORM, Handlebars.js, Express.js, Node.js"],
+    url: "https://github.com/Group05-Project02/waste-management",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Tech Blog",
+    skills: ["Sequalize, MySQL2, express-handlebars, connect-session-sequlize, Node.js, bcrypt, Express.js"],
+    url: "https://github.com/amnasyeda/tech-blog",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -156,17 +156,17 @@ const section5Title = "Get in Touch";
 const contact = {
   pitch:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
+  copyright: "Amna Syeda",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
+  github: "https://github.com/amnasyeda",
+  //facebook: "https://facebook.com",
   // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
+  instagram: "https://instagram.com/amna.s_",
+  linkedin: "https://www.linkedin.com/in/amna-syeda-064191146",
   resume: "https://novoresume.com/",
 };
 // Dont change anything here

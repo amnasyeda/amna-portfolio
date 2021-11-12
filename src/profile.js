@@ -106,9 +106,9 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Counting Calories - Calorie Tracker",
+    skills: ["Bulma, JQuery, Moment.js, Javascript"],
+    url: "https://github.com/uot-project-grp/project01-calorie-tracker",
   },
   {
     // Add image in './styles/images.css' in #project5

@@ -5,27 +5,27 @@
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('https://cdn.britannica.com/18/19218-050-03EA5C8F/discs-polycarbonate-plastic.jpg');
     cursor: none;    
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('https://user-images.githubusercontent.com/81194686/133492597-b2615c14-6e48-4b6c-8074-15c193805f27.png');
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('https://user-images.githubusercontent.com/81194686/126506962-4e220b28-5907-4f66-9b89-9766cef1f79c.png');
     cursor: none;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    background-image: url('https://github.com/uot-project-grp/project01-calorie-tracker/blob/main/assets/images/preview.gif');
     cursor: none;
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    background-image: url('https://github.com/lisahuele/react-portfolio/blob/main/src/assets/images/wastemanagement.png');
     cursor: none;
 }
 .project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    background-image: url('https://user-images.githubusercontent.com/81194686/128913115-3ae8123e-3176-4537-b99e-9e39cc4d53ab.png');
     cursor: none;
 }
 /* Miscelaneous Activities photo */

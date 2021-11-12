@@ -30,14 +30,14 @@
 }
 /* Miscelaneous Activities photo */
 .misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    background-image: url('http://users.infragistics.com/2012.2/configure-big.png');
     cursor: none;
 }
 .misc2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    background-image: url('https://d33wubrfki0l68.cloudfront.net/a8821ae97b18f32f919b6e7a915f5ce8da296a1e/d6beb/2021/01/19/announcing-rstudio-1-4/rstudio-1.4.jpg');
     cursor: none;
 }
 .misc3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    background-image: url('https://ostechnix.com/wp-content/uploads/2020/08/GIMP-GNU-Image-Manipulation-Program.png');
     cursor: none;
 }

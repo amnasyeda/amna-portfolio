@@ -13,14 +13,14 @@ const header = {
 };
 const background = {
   // Options: Snow or Particle
-  type: "Snow",
+  type: "Particle",
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I am a junior web-developer and I am currectly working on small projects as a freelanced developer. ",
+    "I am a junior web-developer and I am currectly working on small projects as a freelanced developer. Prior to changing my career path to software and web development, I obtained my Honors Bachelors of Science degree from the University of Toronto and completed a double major in human biology and neuroscience. I am still an active researcher for neuroscience at the university.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -85,7 +85,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Vintage Vinyl Records",
+    name: "Vintage Vinyl Records - An E-commerce Application",
     skills: ["Apollo, Graphql, React.js, React-router-dom, Bcrypt, Express.js, Mongoose"],
     url: "https://github.com/group01-project03/vintage-vinyl-records",
   },
@@ -120,7 +120,7 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
-    name: "Tech Blog",
+    name: "Tech Blog - Blogging Application",
     skills: ["Sequalize, MySQL2, express-handlebars, connect-session-sequlize, Node.js, bcrypt, Express.js"],
     url: "https://github.com/amnasyeda/tech-blog",
   },
@@ -128,24 +128,24 @@ const projects = [
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "Other Skills & Interests";
 const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
+    name: "UI Toolkits and Frameworks",
     url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
+    name: "Proficient in R and RStudio (C++)",
     url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
+    name: "Skilled Graphic Designer",
     url: "https://github.com/kaustubhai",
   },
 ];

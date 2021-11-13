@@ -155,7 +155,7 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
+    "Feel free to contact me. I am open to collaborate with other developers on various projects I am planning to launch in the near future.",
   copyright: "Amna Syeda",
   contactUrl: "",
 };

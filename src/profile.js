@@ -167,7 +167,7 @@ const social = {
   // twitter: "https://twitter.com",
   instagram: "https://instagram.com/amna.s_",
   linkedin: "https://www.linkedin.com/in/amna-syeda-064191146",
-  resume: "https://novoresume.com/",
+  resume: "",
 };
 // Dont change anything here
 export {

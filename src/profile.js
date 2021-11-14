@@ -134,19 +134,19 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
     name: "UI Toolkits and Frameworks",
-    url: "https://github.com/kaustubhai",
+   //url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Proficient in R and RStudio (C++)",
-    url: "https://github.com/kaustubhai",
+    //url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Skilled Graphic Designer",
-    url: "https://github.com/kaustubhai",
+    //url: "https://github.com/kaustubhai",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)

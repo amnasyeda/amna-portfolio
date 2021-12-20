@@ -139,7 +139,7 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Proficient in R and RStudio (C++)",
+    name: "Proficient in R and RStudio",
     //url: "https://github.com/kaustubhai",
   },
   {
